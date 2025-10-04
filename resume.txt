@@ -1,0 +1,42 @@
+Aaron Guo
+(980) 377- 0681 | compsci.aaron.guo@gmail.com | https://www.linkedin.com/in/guo-aaron/ | aguo890.github.io
+Education
+The George Washington University 	Washington, DC
+Masters in Data Analytics (Accelerated 4+1 Program)	Expected June 2027
+BSc In Computer Science, Minor in Accountancy	Expected June 2026
+Skills
+Visualization: Tableau, Power BI
+Programming: Python, SQL, R, REST APIs
+Data Science/Machine Learning: Pandas, NumPy, Scikit-Learn, PySpark, Time-Series Analysis, NLP
+Cloud: AWS (Lambda, SNS, S3, EC2), Docker, Git
+Office: Advanced in Excel and PowerPoint + Word; Proficient in Outlook
+AI Development: OpenAI API, Gemini API, Deepseek API
+Languages: English (Native), Mandarin (Fluent-Speaking)
+Work Experience
+The George Washington University	August 2024 - Present
+Technical Support Assistant	Washington, DC
+Diagnosed+resolved average of 15+ daily technical support tickets related to Software/Hardware and GWSystems
+Acted as the technical liaison between non-technical university staff and IT engineers.
+Authored documentation for an internal knowledge base, improving team efficiency & issue resolution.
+Applied knowledge of core IT infrastructure to resolve complex, underlying system issues.
+Three Stars Fashion Group, www.linkedin.com/company/three-stars-fashion-group/  	June 2025 - Sept 2025
+Data Engineer Intern (Remote)	Alexandria, Egypt 
+Automated the tedious processing of supplier inventory spreadsheets using a Python and Pandas script, freeing up 30 minutes of cleaning into Excel and given to our supply chain team saving 16+ hours every week.
+Built and deployed a live dashboard with Flask and Chart.js to help managers visualize production line output, helping pinpoint a discovery of a key bottleneck in the assembly line nearly instantly.
+Designed a serverless alert system using AWS Lambda and SNS to instantly notify the logistics team about large, shipment-ready orders, effectively cutting down on communication delays.
+Created clear technical documentation and user guides in Microsoft Word for all developed tools above, ensuring a smooth handoff and easy adoption by the full-time team or anytime after me.
+Sunwater Capital, legis1.com , www.sunwatercapital.com	January 2025 –  May 2025
+Data Science Intern	North Bethesda, MD 
+Architected an end-to-end data pipeline using PySpark and SerpAPI to automatically extract and clean legislative data, ensuring the entire team had a reliable stream of information for analysis.
+Cut manual fact-checking time by 90% by building an AI validation tool with the OpenAI API.
+Turned messy committee hearing transcripts into strategic insights by building a Python web scraper and using NLP to extract key topics for the analysis team.
+Wrangled/transformed raw web data into clean, analysis ready datasets using R (dplyr, tidyr), preparing the ground for modeling and clear reporting.
+China Fun Restaurants	September 2020 –  August 2024
+Data Analyst' 22-24, Assistant Manager 20-22	Charlotte, NC 
+Implemented a time-series forecasting model on sales data to optimize daily inventory procurement, reducing food waste by 14% and increasing profit margins by over 7%.
+Analyzed and visualized a complex 200+ item menu using Tableau and Power BI 200+ item to visualize profitability and sales trends, making smarter inventory and marketing decisions.
+Developed compelling data narratives using Tableau visualizations, successfully influencing a new menu strategy that generated an additional $5k in monthly revenue.
+Leadership & Campus Involvement
+Association of Computing Machinery (ACM) | George Washington University | President	Aug 2024 - Present
+Led 10+ professional development workshops and speaker events for the student community on topics ranging from Technical skills, Career Preparation, AI and Machine Learning, Project Documentation.
+Successfully grew chapter membership by over 100 students through strategic outreach, engaging social media content, and promotional events across campus.
